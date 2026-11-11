@@ -1,3 +1,5 @@
+# Neurotech-Afterimage
+
 **What happens to neurotechnology when its developers move on, its trials stop, or its devices leave the market?**
 
 Neurotech-Afterimage is a research archive about the lifecycle of neurotechnology. It documents clinical trial outcomes, company closures, discontinued devices, technology transfers, and questions about long-term patient support. The cases draw on public records, scientific publications, and attributed reporting.
