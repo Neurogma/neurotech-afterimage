@@ -43,7 +43,7 @@ When citing the archive, include its title, the repository URL, a version or com
 
 Researchers, clinicians, engineers, patients, historians, and others with relevant experience can help improve the archive. Useful contributions include proposing a documented case, finding primary records, correcting an error, strengthening an evidence register, or pointing to relevant clinical and technical publications.
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a case. If this repository is hosted on GitHub, you can also use its Issues page to report a factual correction or suggest a source.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a case. You can also use its issues page to report a factual correction or suggest a source.
 
 ## License
 
