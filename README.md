@@ -1,3 +1,5 @@
+![Social Preview](./path/to/neurotech-afterimage-social-preview.png)
+
 # Neurotech-Afterimage
 
 **What happens to neurotechnology when its developers move on, its trials stop, or its devices leave the market?**
