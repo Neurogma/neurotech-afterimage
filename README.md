@@ -1,4 +1,4 @@
-# neurotech-afterimage
+# Neurotech-Afterimage
 
 When a neurotechnology project stops or changes hands, the public record can leave basic questions unanswered: what happened to the product, what happened to the trial, and what support remained for people using a device. neurotech-afterimage follows those questions through company filings, trial records, published studies, and attributed reporting.
 
